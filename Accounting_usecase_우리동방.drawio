@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T06:48:58.893Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IT37uS8C79Dq5hzhbiKT" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T07:12:12.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="G3zvoa6MbMUYZADPPtD7" version="21.6.5" type="github">
   <diagram name="페이지-1" id="l2yv93NqEGD5EhitEIuK">
     <mxGraphModel dx="3406" dy="1703" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AUq77IrdqAhnC86SsV78-1" value="관리자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-1001" y="-150" width="30" height="60" as="geometry" />
+          <mxGeometry x="-223" y="63" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AUq77IrdqAhnC86SsV78-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-829" y="-325" width="595" height="816" as="geometry" />
@@ -14,68 +14,40 @@
           <mxGeometry x="-623" y="-319" width="174" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AUq77IrdqAhnC86SsV78-5" value="동아리감사위원회" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-51" y="-235" width="30" height="60" as="geometry" />
+          <mxGeometry x="-885" y="-235" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AUq77IrdqAhnC86SsV78-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AUq77IrdqAhnC86SsV78-8" target="AUq77IrdqAhnC86SsV78-13">
+        <mxCell id="AUq77IrdqAhnC86SsV78-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AUq77IrdqAhnC86SsV78-8" target="AUq77IrdqAhnC86SsV78-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AUq77IrdqAhnC86SsV78-35" value="해당 서비스의 툴을 사용하여 회비 내역 관리 및 정리" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="AUq77IrdqAhnC86SsV78-34">
+        <mxCell id="AUq77IrdqAhnC86SsV78-35" value="해당 서비스의 툴을 사용하여&lt;br&gt;&amp;nbsp;회비 내역 관리 및 정리" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="AUq77IrdqAhnC86SsV78-34">
           <mxGeometry x="0.1616" relative="1" as="geometry">
-            <mxPoint x="34" as="offset" />
+            <mxPoint x="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AUq77IrdqAhnC86SsV78-8" value="동아리 임원진" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-51" y="47" width="30" height="60" as="geometry" />
+          <mxGeometry x="-885" y="53" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AUq77IrdqAhnC86SsV78-9" value="동아리 부원" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-51" y="317" width="30" height="60" as="geometry" />
+          <mxGeometry x="-885" y="315" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AUq77IrdqAhnC86SsV78-13" value="동아리 회비 &lt;br&gt;관리 툴&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-591.5" y="43" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AUq77IrdqAhnC86SsV78-18" value="" style="edgeStyle=elbowEdgeStyle;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;fontSize=12;elbow=vertical;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AUq77IrdqAhnC86SsV78-1" target="AUq77IrdqAhnC86SsV78-13">
+        <mxCell id="AUq77IrdqAhnC86SsV78-18" value="" style="edgeStyle=elbowEdgeStyle;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;fontSize=12;elbow=vertical;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AUq77IrdqAhnC86SsV78-1" target="AUq77IrdqAhnC86SsV78-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-924" y="52" as="sourcePoint" />
             <mxPoint x="-774" y="171" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-364" y="83" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AUq77IrdqAhnC86SsV78-28" value="서비스 제공(배포) 및 지속적인 업데이트" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="AUq77IrdqAhnC86SsV78-18">
+        <mxCell id="AUq77IrdqAhnC86SsV78-28" value="서비스 제공(배포) 및 &lt;br&gt;지속적인 업데이트" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="AUq77IrdqAhnC86SsV78-18">
           <mxGeometry x="-0.3794" y="2" relative="1" as="geometry">
-            <mxPoint x="72" y="2" as="offset" />
+            <mxPoint x="-54" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AUq77IrdqAhnC86SsV78-23" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AUq77IrdqAhnC86SsV78-9" target="AUq77IrdqAhnC86SsV78-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="32" y="291" as="sourcePoint" />
-            <mxPoint x="41" y="21" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="80" y="337" />
-              <mxPoint x="80" y="67" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AUq77IrdqAhnC86SsV78-32" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;투명한 회비 관리 및 관리 내역 요구&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="AUq77IrdqAhnC86SsV78-23">
-          <mxGeometry x="-0.044" y="-2" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AUq77IrdqAhnC86SsV78-31" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AUq77IrdqAhnC86SsV78-5" target="AUq77IrdqAhnC86SsV78-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1" y="-200" as="sourcePoint" />
-            <mxPoint x="-14" y="26" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="117" y="-215" />
-              <mxPoint x="117" y="26" />
-              <mxPoint x="-28" y="26" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AUq77IrdqAhnC86SsV78-33" value="동아리 감사 진행" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="AUq77IrdqAhnC86SsV78-31">
-          <mxGeometry x="-0.1323" y="3" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AUq77IrdqAhnC86SsV78-36" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AUq77IrdqAhnC86SsV78-13" target="AUq77IrdqAhnC86SsV78-5">
+        <mxCell id="AUq77IrdqAhnC86SsV78-36" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AUq77IrdqAhnC86SsV78-13" target="AUq77IrdqAhnC86SsV78-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-440" y="-41" as="sourcePoint" />
             <mxPoint x="-390" y="-91" as="targetPoint" />
@@ -84,12 +56,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AUq77IrdqAhnC86SsV78-38" value="툴 기반의 정리된 회비 관리 내역의 문서화를 통해 제공" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="AUq77IrdqAhnC86SsV78-36">
+        <mxCell id="AUq77IrdqAhnC86SsV78-38" value="툴 기반의 정리된 회비 관리 내역의 &lt;br&gt;문서화를 통해 제공" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="AUq77IrdqAhnC86SsV78-36">
           <mxGeometry x="0.236" relative="1" as="geometry">
-            <mxPoint x="57" as="offset" />
+            <mxPoint x="-32" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AUq77IrdqAhnC86SsV78-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AUq77IrdqAhnC86SsV78-13" target="AUq77IrdqAhnC86SsV78-9">
+        <mxCell id="AUq77IrdqAhnC86SsV78-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AUq77IrdqAhnC86SsV78-13" target="AUq77IrdqAhnC86SsV78-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-463" y="296" as="sourcePoint" />
             <mxPoint x="-413" y="246" as="targetPoint" />
@@ -98,9 +70,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AUq77IrdqAhnC86SsV78-39" value="상시 업데이트되는 내역을 해당 서비스 내에서 즉시 확인 가능" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="AUq77IrdqAhnC86SsV78-37">
+        <mxCell id="AUq77IrdqAhnC86SsV78-39" value="상시 업데이트되는 내역을 &lt;br&gt;해당 서비스 내에서 즉시 확인 가능" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="AUq77IrdqAhnC86SsV78-37">
           <mxGeometry x="0.2734" y="3" relative="1" as="geometry">
-            <mxPoint x="14" y="3" as="offset" />
+            <mxPoint x="-28" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
